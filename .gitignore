@@ -1,0 +1,16 @@
+# Dependencias (no subir a GitHub)
+node_modules/
+
+# Build de Vite
+dist/
+
+# Entorno / secretos
+.env
+.env.*
+*.local
+
+# Sistema / editores
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
